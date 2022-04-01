@@ -1,0 +1,1 @@
+Sahinbey is in the heart of city and has many locals restaurant which serve delicious foods.

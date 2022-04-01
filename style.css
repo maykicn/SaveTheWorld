@@ -1,0 +1,12 @@
+main{
+    background-color: rgba(151, 178, 169, 0,3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-image: url(https://www.tagesspiegel.de/images/independence/13866310/3-format43.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

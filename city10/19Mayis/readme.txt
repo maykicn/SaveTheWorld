@@ -1,0 +1,1 @@
+After WW1 Ataturk went to Samsun at 19th of May 1919.

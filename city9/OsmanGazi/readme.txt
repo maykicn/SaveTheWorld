@@ -1,0 +1,1 @@
+Osman Gazi is the founder of Ottoman Empire.

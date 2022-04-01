@@ -1,0 +1,1 @@
+Welcome to Turkey. Here you need to travel between Cities and try to find the numbers password to stop the bomb. When you find your nine digit code go to index.html and input your code.

@@ -1,0 +1,1 @@
+Ataturk start the Indepence War from Samsun. Your eight code is "4"
